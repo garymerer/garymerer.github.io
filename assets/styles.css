@@ -1,3 +1,13 @@
 h1 {
 	color: red;
-}
+}<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<style> 
+	
+	h1 {
+		font-family: Lobster, Monospace;
+	}
+	
+<style/> 	
+<h1 class="blue-text"> Gary Merer </h1>
+<p class="grey-text"> "Accept the <b>challenges</b> so that you can feel the exhilaration of victory"- George Patton"
